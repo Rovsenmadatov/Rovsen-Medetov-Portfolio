@@ -15,8 +15,8 @@ const works = [
     },
     {
       imgSrc: '/images/project-3.jpg',
-      title: 'Recipe app',
-      tags: ['Development', 'API'],
+      title: 'Recipe-App',
+      tags: ['Development', 'JavaScript'],
       projectLink: 'https://github.com/Rovsenmadatov/Food-Bs-Project'
     },
     {
@@ -27,8 +27,8 @@ const works = [
     },
     {
       imgSrc: '/images/pro5.jpg',
-      title: 'eCommerce website',
-      tags: ['eCommerce', 'Development'],
+      title: 'Film Website',
+      tags: ['React.js', 'Development'],
       projectLink: 'https://github.com/Rovsenmadatov/Netflix-Clone'
     },
     {

@@ -26,23 +26,23 @@ const sitemap = [
   const socials = [
     {
       label: 'GitHub',
-      href: 'https://www.github.com/codewithsadee-org'
+      href: 'https://github.com/Rovsenmadatov'
     },
     {
       label: 'LinkedIn',
-      href: 'https://www.linkedin.com/in/codewithsadee'
+      href: 'https://www.linkedin.com/in/rovsen-medetov/'
     },
     {
       label: 'Twitter X',
-      href: 'https://x.com/codewithsadee_'
+      href: 'https://x.com/Rovsen_512'
     },
     {
       label: 'Instagram',
-      href: 'https://www.instagram.com/codewithsadee'
+      href: 'https://www.instagram.com/rovsen_512/'
     },
     {
       label: 'CodePen',
-      href: 'https://codepen.io/codewithsadee'
+      href: 'https://www.upwork.com/freelancers/~01cd808b155f83f06c'
     }
   ];
 
@@ -108,7 +108,7 @@ const Footer = () => {
                 </a>
 
                 <p className="text-zinc-500 text-sm ">
-                    &copy; 2024 <span className="text-zinc-200">Rovsen Medetov</span>
+                    &copy; 2025 <span className="text-zinc-200">Rovsen Medetov</span>
                 </p>
             </div>
         </div>
